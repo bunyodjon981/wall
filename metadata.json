@@ -1,0 +1,6 @@
+{
+  "name": "Qorli Fon",
+  "description": "Qishki jonli fonlar: haqiqiy qor yog'ishi, qor tozalash mashinasi va 3D bolalar qorbo'ron o'yini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
